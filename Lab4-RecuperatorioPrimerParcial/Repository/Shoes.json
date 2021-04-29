@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "zapas 1",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "400"
+    },
+    {
+        "id": 2,
+        "name": "zapas 1",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "400"
+    },
+    {
+        "id": 3,
+        "name": "zapas 1",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "400"
+    },
+    {
+        "id": 4,
+        "name": "zapas 1",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "400"
+    },
+    {
+        "id": 5,
+        "name": "zapas 1",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "400"
+    },
+    {
+        "id": 6,
+        "name": "zapas 1",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "400"
+    },
+    {
+        "id": 7,
+        "name": "aaaaaa",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "4000"
+    },
+    {
+        "id": 8,
+        "name": "zzzzzzz",
+        "brand": "Reebook",
+        "category": "deportivo",
+        "price": "4000"
+    },
+    {
+        "id": 9,
+        "name": "Menem lo hizo",
+        "brand": "Nike",
+        "category": "formal",
+        "price": "1995"
+    }
+]

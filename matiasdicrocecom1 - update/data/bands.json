@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "Name": "Soda Stereo",
+        "bio": "Soda Stereo fue una banda argentina de rock formada originalmente en Buenos Aires en 1982 por Gustavo Cerati (voz, guitarra), H\u00e9ctor \u00abZeta\u00bb Bosio (bajo) y Carlos Alberto Ficicchia \u00abCharly Alberti\u00bb (bater\u00eda), es considerada por la cr\u00edtica especializada como la m\u00e1s importante, popular e influyente de las bandas en espa\u00f1ol de todos los tiempos y una leyenda de la m\u00fasica latina. Fueron el primer grupo de habla hispana en conseguir un \u00e9xito masivo en Latinoam\u00e9rica y tuvieron un papel muy importante en el desarrollo y la difusi\u00f3n del rock iberoamericano y el rock en espa\u00f1ol durante las d\u00e9cadas de 1980 y 1990. Durante su carrera, fueron vanguardistas y marcaron tendencia en Latinoam\u00e9rica, en las que protagonizaron diversos g\u00e9neros como la m\u00fasica divertida de sus inicios, la new wave, el dark, el hard rock, el rock alternativo y el rock electr\u00f3nico de sus finales.",
+        "members": [
+            {
+                "name": "Gustavo Adri\u00e1n Cerati",
+                "rol": "Guitarra y voz"
+            },
+            {
+                "name": "Zeta Bozio",
+                "rol": "Bajo"
+            },
+            {
+                "name": "Charly Alberti",
+                "rol": "Bater\u00eda"
+            }
+        ],
+        "category": "Rock"
+    },
+    {
+        "id": 2,
+        "Name": "Redonditos de Ricota",
+        "bio": "Patricio Rey y sus Redonditos de Ricota, tambi\u00e9n conocidos como Los Redondos, fue una banda de rock de La Plata (Argentina) considerada como una de las m\u00e1s importantes e influyentes de su pa\u00eds. Se form\u00f3 en 19761\u200b y, aunque a lo largo de su historia cont\u00f3 en sus filas con varios integrantes, siempre tuvo como l\u00edderes centrales a Indio Solari como cantante y letrista, Skay Beilinson como guitarrista y compositor, la Negra Poli como m\u00e1nager, y Rocambole Cohen como dise\u00f1ador gr\u00e1fico de las portadas de sus \u00e1lbumes.",
+        "members": [
+            {
+                "name": "Indio Solari",
+                "rol": "Voz"
+            },
+            {
+                "name": "Skay Beilinson",
+                "rol": "Guitarra"
+            },
+            {
+                "name": "Semilla Bucciarelli",
+                "rol": "Bajo"
+            },
+            {
+                "name": "Sergio Dawi",
+                "rol": "Saxo"
+            },
+            {
+                "name": "Walter Sidotti",
+                "rol": "Bater\u00eda"
+            }
+        ],
+        "category": "Rock"
+    },
+    {
+        "id": "3",
+        "Name": "Carajo",
+        "bio": "Carajo fue un power trio argentino fundado en el 2000 por Marcelo Corval\u00e1n, Andr\u00e9s Vilanova y Hern\u00e1n Langer. La banda se defini\u00f3 en una primera \u00e9poca como punk rock \/ nu metal,1\u200b aunque posteriormente ampli\u00f3 su sonido hacia el groove metal. Durante su trayectoria grabaron 6 \u00e1lbumes de estudio y un \u00e1lbum en vivo. La banda se disolvi\u00f3 el 18 de enero de 2020.2\u200b",
+        "members": [
+            {
+                "name": "Marcelo Corval\u00e1n",
+                "rol": "bajo y vos"
+            },
+            {
+                "name": "Andr\u00e9s Vilanova",
+                "rol": "Bater\u00eda"
+            },
+            {
+                "name": "Hern\u00e1n Langer",
+                "rol": "Guitarra"
+            },
+            {
+                "name": "Sergio Dawi",
+                "rol": "Saxo"
+            },
+            {
+                "name": "Walter Sidotti",
+                "rol": "Bater\u00eda"
+            }
+        ],
+        "category": "Heavy Metal"
+    }
+]

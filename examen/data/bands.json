@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "Name": "Soda Stereo",
+    "bio": "Soda Stereo fue una banda argentina de rock formada originalmente en Buenos Aires en 1982 por Gustavo Cerati (voz, guitarra), Héctor «Zeta» Bosio (bajo) y Carlos Alberto Ficicchia «Charly Alberti» (batería), es considerada por la crítica especializada como la más importante, popular e influyente de las bandas en español de todos los tiempos y una leyenda de la música latina. Fueron el primer grupo de habla hispana en conseguir un éxito masivo en Latinoamérica y tuvieron un papel muy importante en el desarrollo y la difusión del rock iberoamericano y el rock en español durante las décadas de 1980 y 1990. Durante su carrera, fueron vanguardistas y marcaron tendencia en Latinoamérica, en las que protagonizaron diversos géneros como la música divertida de sus inicios, la new wave, el dark, el hard rock, el rock alternativo y el rock electrónico de sus finales.",
+    "members": [
+      {
+        "name": "Gustavo Adrián Cerati",
+        "rol": "Guitarra y voz"
+      },
+      {
+        "name": "Zeta Bozio",
+        "rol": "Bajo"
+      },
+      {
+        "name": "Charly Alberti",
+        "rol": "Batería"
+      }
+    ],
+    "category": "Rock"
+  },
+  {
+    "id": 2,
+    "Name": "Redonditos de Ricota",
+    "bio": "Patricio Rey y sus Redonditos de Ricota, también conocidos como Los Redondos, fue una banda de rock de La Plata (Argentina) considerada como una de las más importantes e influyentes de su país. Se formó en 19761​ y, aunque a lo largo de su historia contó en sus filas con varios integrantes, siempre tuvo como líderes centrales a Indio Solari como cantante y letrista, Skay Beilinson como guitarrista y compositor, la Negra Poli como mánager, y Rocambole Cohen como diseñador gráfico de las portadas de sus álbumes.",
+    "members": [
+      {
+        "name": "Indio Solari",
+        "rol": "Voz"
+      },
+      {
+        "name": "Skay Beilinson",
+        "rol": "Guitarra"
+      },
+      {
+        "name": "Semilla Bucciarelli",
+        "rol": "Bajo"
+      },
+      {
+        "name": "Sergio Dawi",
+        "rol": "Saxo"
+      },
+      {
+        "name": "Walter Sidotti",
+        "rol": "Batería"
+      }
+    ],
+    "category": "Rock"
+  },
+  {
+    "id": "3",
+    "Name": "Carajo",
+    "bio": "Carajo fue un power trio argentino fundado en el 2000 por Marcelo Corvalán, Andrés Vilanova y Hernán Langer. La banda se definió en una primera época como punk rock / nu metal,1​ aunque posteriormente amplió su sonido hacia el groove metal. Durante su trayectoria grabaron 6 álbumes de estudio y un álbum en vivo. La banda se disolvió el 18 de enero de 2020.2​",
+    "members": [
+      {
+        "name": "Marcelo Corvalán",
+        "rol": "bajo y vos"
+      },
+      {
+        "name": "Andrés Vilanova",
+        "rol": "Batería"
+      },
+      {
+        "name": "Hernán Langer",
+        "rol": "Guitarra"
+      }
+    ],
+    "category": "Heavy Metal"
+  }
+]

@@ -1,0 +1,8 @@
+Primer parcial recuperatorio
+
+- Listar categorías
+- Listar bandas.
+- Resolver editar y baja de bandas
+    - La banda a editar se selecciona haciendo click en el nombre.
+    - No es necesario editar a los miembros de la banda.
+    - Las bandas tienen una categoría.
